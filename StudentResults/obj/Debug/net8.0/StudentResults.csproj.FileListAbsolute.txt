@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\Desktop\CLASS APPS\StudentResults\bin\Debug\net8.0\StudentResults.exe
+C:\Users\lab_services_student\Desktop\CLASS APPS\StudentResults\bin\Debug\net8.0\StudentResults.deps.json
+C:\Users\lab_services_student\Desktop\CLASS APPS\StudentResults\bin\Debug\net8.0\StudentResults.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\CLASS APPS\StudentResults\bin\Debug\net8.0\StudentResults.dll
+C:\Users\lab_services_student\Desktop\CLASS APPS\StudentResults\bin\Debug\net8.0\StudentResults.pdb
+C:\Users\lab_services_student\Desktop\CLASS APPS\StudentResults\obj\Debug\net8.0\StudentResults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\CLASS APPS\StudentResults\obj\Debug\net8.0\StudentResults.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\CLASS APPS\StudentResults\obj\Debug\net8.0\StudentResults.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\CLASS APPS\StudentResults\obj\Debug\net8.0\StudentResults.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\CLASS APPS\StudentResults\obj\Debug\net8.0\StudentResults.dll
+C:\Users\lab_services_student\Desktop\CLASS APPS\StudentResults\obj\Debug\net8.0\refint\StudentResults.dll
+C:\Users\lab_services_student\Desktop\CLASS APPS\StudentResults\obj\Debug\net8.0\StudentResults.pdb
+C:\Users\lab_services_student\Desktop\CLASS APPS\StudentResults\obj\Debug\net8.0\StudentResults.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\CLASS APPS\StudentResults\obj\Debug\net8.0\ref\StudentResults.dll

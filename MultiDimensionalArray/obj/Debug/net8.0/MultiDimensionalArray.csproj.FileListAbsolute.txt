@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\Desktop\CLASS APPS\MultiDimensionalArray\bin\Debug\net8.0\MultiDimensionalArray.exe
+C:\Users\lab_services_student\Desktop\CLASS APPS\MultiDimensionalArray\bin\Debug\net8.0\MultiDimensionalArray.deps.json
+C:\Users\lab_services_student\Desktop\CLASS APPS\MultiDimensionalArray\bin\Debug\net8.0\MultiDimensionalArray.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\CLASS APPS\MultiDimensionalArray\bin\Debug\net8.0\MultiDimensionalArray.dll
+C:\Users\lab_services_student\Desktop\CLASS APPS\MultiDimensionalArray\bin\Debug\net8.0\MultiDimensionalArray.pdb
+C:\Users\lab_services_student\Desktop\CLASS APPS\MultiDimensionalArray\obj\Debug\net8.0\MultiDimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\CLASS APPS\MultiDimensionalArray\obj\Debug\net8.0\MultiDimensionalArray.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\CLASS APPS\MultiDimensionalArray\obj\Debug\net8.0\MultiDimensionalArray.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\CLASS APPS\MultiDimensionalArray\obj\Debug\net8.0\MultiDimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\CLASS APPS\MultiDimensionalArray\obj\Debug\net8.0\MultiDimensionalArray.dll
+C:\Users\lab_services_student\Desktop\CLASS APPS\MultiDimensionalArray\obj\Debug\net8.0\refint\MultiDimensionalArray.dll
+C:\Users\lab_services_student\Desktop\CLASS APPS\MultiDimensionalArray\obj\Debug\net8.0\MultiDimensionalArray.pdb
+C:\Users\lab_services_student\Desktop\CLASS APPS\MultiDimensionalArray\obj\Debug\net8.0\MultiDimensionalArray.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\CLASS APPS\MultiDimensionalArray\obj\Debug\net8.0\ref\MultiDimensionalArray.dll

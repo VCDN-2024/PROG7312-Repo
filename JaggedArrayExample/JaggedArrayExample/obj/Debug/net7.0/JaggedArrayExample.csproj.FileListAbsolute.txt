@@ -1,0 +1,30 @@
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\JaggedArrayExample\JaggedArrayExample\bin\Debug\net7.0\JaggedArrayExample.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\JaggedArrayExample\JaggedArrayExample\bin\Debug\net7.0\JaggedArrayExample.deps.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\JaggedArrayExample\JaggedArrayExample\bin\Debug\net7.0\JaggedArrayExample.runtimeconfig.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\JaggedArrayExample\JaggedArrayExample\bin\Debug\net7.0\JaggedArrayExample.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\JaggedArrayExample\JaggedArrayExample\bin\Debug\net7.0\JaggedArrayExample.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\JaggedArrayExample\JaggedArrayExample\obj\Debug\net7.0\JaggedArrayExample.csproj.AssemblyReference.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\JaggedArrayExample\JaggedArrayExample\obj\Debug\net7.0\JaggedArrayExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\JaggedArrayExample\JaggedArrayExample\obj\Debug\net7.0\JaggedArrayExample.AssemblyInfoInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\JaggedArrayExample\JaggedArrayExample\obj\Debug\net7.0\JaggedArrayExample.AssemblyInfo.cs
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\JaggedArrayExample\JaggedArrayExample\obj\Debug\net7.0\JaggedArrayExample.csproj.CoreCompileInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\JaggedArrayExample\JaggedArrayExample\obj\Debug\net7.0\JaggedArrayExample.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\JaggedArrayExample\JaggedArrayExample\obj\Debug\net7.0\refint\JaggedArrayExample.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\JaggedArrayExample\JaggedArrayExample\obj\Debug\net7.0\JaggedArrayExample.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\JaggedArrayExample\JaggedArrayExample\obj\Debug\net7.0\JaggedArrayExample.genruntimeconfig.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\JaggedArrayExample\JaggedArrayExample\obj\Debug\net7.0\ref\JaggedArrayExample.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\JaggedArrayExample\JaggedArrayExample\bin\Debug\net7.0\JaggedArrayExample.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\JaggedArrayExample\JaggedArrayExample\bin\Debug\net7.0\JaggedArrayExample.deps.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\JaggedArrayExample\JaggedArrayExample\bin\Debug\net7.0\JaggedArrayExample.runtimeconfig.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\JaggedArrayExample\JaggedArrayExample\bin\Debug\net7.0\JaggedArrayExample.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\JaggedArrayExample\JaggedArrayExample\bin\Debug\net7.0\JaggedArrayExample.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\JaggedArrayExample\JaggedArrayExample\obj\Debug\net7.0\JaggedArrayExample.csproj.AssemblyReference.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\JaggedArrayExample\JaggedArrayExample\obj\Debug\net7.0\JaggedArrayExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\JaggedArrayExample\JaggedArrayExample\obj\Debug\net7.0\JaggedArrayExample.AssemblyInfoInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\JaggedArrayExample\JaggedArrayExample\obj\Debug\net7.0\JaggedArrayExample.AssemblyInfo.cs
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\JaggedArrayExample\JaggedArrayExample\obj\Debug\net7.0\JaggedArrayExample.csproj.CoreCompileInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\JaggedArrayExample\JaggedArrayExample\obj\Debug\net7.0\JaggedArrayExample.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\JaggedArrayExample\JaggedArrayExample\obj\Debug\net7.0\refint\JaggedArrayExample.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\JaggedArrayExample\JaggedArrayExample\obj\Debug\net7.0\JaggedArrayExample.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\JaggedArrayExample\JaggedArrayExample\obj\Debug\net7.0\JaggedArrayExample.genruntimeconfig.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\JaggedArrayExample\JaggedArrayExample\obj\Debug\net7.0\ref\JaggedArrayExample.dll
