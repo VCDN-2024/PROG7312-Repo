@@ -1,0 +1,44 @@
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\StudentScores\StudentScores\bin\Debug\net7.0\StudentScores.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\StudentScores\StudentScores\bin\Debug\net7.0\StudentScores.deps.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\StudentScores\StudentScores\bin\Debug\net7.0\StudentScores.runtimeconfig.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\StudentScores\StudentScores\bin\Debug\net7.0\StudentScores.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\StudentScores\StudentScores\bin\Debug\net7.0\StudentScores.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\StudentScores\StudentScores\obj\Debug\net7.0\StudentScores.csproj.AssemblyReference.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\StudentScores\StudentScores\obj\Debug\net7.0\StudentScores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\StudentScores\StudentScores\obj\Debug\net7.0\StudentScores.AssemblyInfoInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\StudentScores\StudentScores\obj\Debug\net7.0\StudentScores.AssemblyInfo.cs
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\StudentScores\StudentScores\obj\Debug\net7.0\StudentScores.csproj.CoreCompileInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\StudentScores\StudentScores\obj\Debug\net7.0\StudentScores.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\StudentScores\StudentScores\obj\Debug\net7.0\refint\StudentScores.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\StudentScores\StudentScores\obj\Debug\net7.0\StudentScores.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\StudentScores\StudentScores\obj\Debug\net7.0\StudentScores.genruntimeconfig.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\StudentScores\StudentScores\obj\Debug\net7.0\ref\StudentScores.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\StudentScores\StudentScores\bin\Debug\net7.0\StudentScores.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\StudentScores\StudentScores\bin\Debug\net7.0\StudentScores.deps.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\StudentScores\StudentScores\bin\Debug\net7.0\StudentScores.runtimeconfig.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\StudentScores\StudentScores\bin\Debug\net7.0\StudentScores.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\StudentScores\StudentScores\bin\Debug\net7.0\StudentScores.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\StudentScores\StudentScores\obj\Debug\net7.0\StudentScores.csproj.AssemblyReference.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\StudentScores\StudentScores\obj\Debug\net7.0\StudentScores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\StudentScores\StudentScores\obj\Debug\net7.0\StudentScores.AssemblyInfoInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\StudentScores\StudentScores\obj\Debug\net7.0\StudentScores.AssemblyInfo.cs
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\StudentScores\StudentScores\obj\Debug\net7.0\StudentScores.csproj.CoreCompileInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\StudentScores\StudentScores\obj\Debug\net7.0\StudentScores.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\StudentScores\StudentScores\obj\Debug\net7.0\refint\StudentScores.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\StudentScores\StudentScores\obj\Debug\net7.0\StudentScores.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\StudentScores\StudentScores\obj\Debug\net7.0\StudentScores.genruntimeconfig.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 5-6\StudentScores\StudentScores\obj\Debug\net7.0\ref\StudentScores.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 5-6\StudentScores\StudentScores\bin\Debug\net7.0\StudentScores.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 5-6\StudentScores\StudentScores\bin\Debug\net7.0\StudentScores.deps.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 5-6\StudentScores\StudentScores\bin\Debug\net7.0\StudentScores.runtimeconfig.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 5-6\StudentScores\StudentScores\bin\Debug\net7.0\StudentScores.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 5-6\StudentScores\StudentScores\bin\Debug\net7.0\StudentScores.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 5-6\StudentScores\StudentScores\obj\Debug\net7.0\StudentScores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 5-6\StudentScores\StudentScores\obj\Debug\net7.0\StudentScores.AssemblyInfoInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 5-6\StudentScores\StudentScores\obj\Debug\net7.0\StudentScores.AssemblyInfo.cs
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 5-6\StudentScores\StudentScores\obj\Debug\net7.0\StudentScores.csproj.CoreCompileInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 5-6\StudentScores\StudentScores\obj\Debug\net7.0\StudentScores.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 5-6\StudentScores\StudentScores\obj\Debug\net7.0\refint\StudentScores.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 5-6\StudentScores\StudentScores\obj\Debug\net7.0\StudentScores.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 5-6\StudentScores\StudentScores\obj\Debug\net7.0\StudentScores.genruntimeconfig.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 5-6\StudentScores\StudentScores\obj\Debug\net7.0\ref\StudentScores.dll
