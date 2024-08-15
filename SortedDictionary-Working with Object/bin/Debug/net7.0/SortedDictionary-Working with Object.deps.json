@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SortedDictionary-Working with Object/1.0.0": {
+        "runtime": {
+          "SortedDictionary-Working with Object.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SortedDictionary-Working with Object/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

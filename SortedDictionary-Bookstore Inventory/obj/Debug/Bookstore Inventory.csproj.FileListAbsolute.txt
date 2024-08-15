@@ -1,0 +1,7 @@
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 23-24\Bookstore Inventory\bin\Debug\Bookstore Inventory.exe.config
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 23-24\Bookstore Inventory\bin\Debug\Bookstore Inventory.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 23-24\Bookstore Inventory\bin\Debug\Bookstore Inventory.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 23-24\Bookstore Inventory\obj\Debug\Bookstore Inventory.csproj.AssemblyReference.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 23-24\Bookstore Inventory\obj\Debug\Bookstore Inventory.csproj.CoreCompileInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 23-24\Bookstore Inventory\obj\Debug\Bookstore Inventory.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 23-24\Bookstore Inventory\obj\Debug\Bookstore Inventory.pdb
