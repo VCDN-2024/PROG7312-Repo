@@ -1,0 +1,14 @@
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 27-28\Queue\bin\Debug\net6.0\Queue.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 27-28\Queue\bin\Debug\net6.0\Queue.deps.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 27-28\Queue\bin\Debug\net6.0\Queue.runtimeconfig.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 27-28\Queue\bin\Debug\net6.0\Queue.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 27-28\Queue\bin\Debug\net6.0\Queue.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 27-28\Queue\obj\Debug\net6.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 27-28\Queue\obj\Debug\net6.0\Queue.AssemblyInfoInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 27-28\Queue\obj\Debug\net6.0\Queue.AssemblyInfo.cs
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 27-28\Queue\obj\Debug\net6.0\Queue.csproj.CoreCompileInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 27-28\Queue\obj\Debug\net6.0\Queue.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 27-28\Queue\obj\Debug\net6.0\refint\Queue.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 27-28\Queue\obj\Debug\net6.0\Queue.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 27-28\Queue\obj\Debug\net6.0\Queue.genruntimeconfig.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 27-28\Queue\obj\Debug\net6.0\ref\Queue.dll

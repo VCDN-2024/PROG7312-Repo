@@ -1,0 +1,54 @@
+﻿<Window x:Class="PrintJobQueueExample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Print Job Queue System" Height="470" Width="625">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <!-- Title -->
+        <TextBlock Grid.Row="0" Grid.ColumnSpan="2" 
+                   Text="Print Job Queue System" 
+                   FontSize="20" FontWeight="Bold" 
+                   HorizontalAlignment="Center" Margin="0,0,0,10"/>
+
+        <!-- Document Name -->
+        <TextBlock Grid.Row="1" Grid.Column="0" Text="Document Name:" Margin="0,5" VerticalAlignment="Center"/>
+        <TextBox x:Name="DocumentNameTextBox" Grid.Row="1" Grid.Column="1" Margin="5" />
+
+        <!-- Job Priority -->
+        <TextBlock Grid.Row="2" Grid.Column="0" Text="Job Priority:" Margin="0,19,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="JobPriorityComboBox" Grid.Row="2" Grid.Column="1" Margin="6,5,5,115">
+            <ComboBoxItem Content="Urgent" />
+            <ComboBoxItem Content="High" />
+            <ComboBoxItem Content="Normal" />
+            <ComboBoxItem Content="Low" />
+        </ComboBox>
+
+        <!-- Add Print Job Button -->
+        <Button Grid.Row="2" Grid.Column="1" 
+                Content="Add Print Job" 
+                Width="185" Margin="0,79,40,10" 
+                HorizontalAlignment="Right"
+                Click="AddPrintJobButton_Click" />
+
+        <!-- Print Queue List -->
+        <ListBox x:Name="PrintQueueListBox" Grid.Row="4" Grid.ColumnSpan="2" 
+                 Margin="0,10,0,0" Height="200"/>
+
+        <!-- Process Queue Button -->
+        <Button Grid.Row="2" Grid.ColumnSpan="2" 
+                Content="Process Next Print Job" 
+                Width="200" Margin="5,74,0,10"
+                HorizontalAlignment="Left"
+                Click="ProcessNextPrintJobButton_Click" />
+    </Grid>
+</Window>

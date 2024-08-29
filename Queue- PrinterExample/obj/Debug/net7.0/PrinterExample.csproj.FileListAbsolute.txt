@@ -1,0 +1,14 @@
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 29-30\PrinterExample\bin\Debug\net7.0\PrinterExample.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 29-30\PrinterExample\bin\Debug\net7.0\PrinterExample.deps.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 29-30\PrinterExample\bin\Debug\net7.0\PrinterExample.runtimeconfig.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 29-30\PrinterExample\bin\Debug\net7.0\PrinterExample.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 29-30\PrinterExample\bin\Debug\net7.0\PrinterExample.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 29-30\PrinterExample\obj\Debug\net7.0\PrinterExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 29-30\PrinterExample\obj\Debug\net7.0\PrinterExample.AssemblyInfoInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 29-30\PrinterExample\obj\Debug\net7.0\PrinterExample.AssemblyInfo.cs
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 29-30\PrinterExample\obj\Debug\net7.0\PrinterExample.csproj.CoreCompileInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 29-30\PrinterExample\obj\Debug\net7.0\PrinterExample.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 29-30\PrinterExample\obj\Debug\net7.0\refint\PrinterExample.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 29-30\PrinterExample\obj\Debug\net7.0\PrinterExample.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 29-30\PrinterExample\obj\Debug\net7.0\PrinterExample.genruntimeconfig.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2023\Lesson Plans\Programming 3B-PROG7312\Session 29-30\PrinterExample\obj\Debug\net7.0\ref\PrinterExample.dll
