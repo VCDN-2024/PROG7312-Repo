@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSetExample", "HashSetExample.csproj", "{5D1AE8A1-4839-405F-A011-40EF59479EC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D1AE8A1-4839-405F-A011-40EF59479EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D1AE8A1-4839-405F-A011-40EF59479EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D1AE8A1-4839-405F-A011-40EF59479EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D1AE8A1-4839-405F-A011-40EF59479EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F2F81D1-5396-4449-8CED-82D2A238CE5E}
+	EndGlobalSection
+EndGlobal

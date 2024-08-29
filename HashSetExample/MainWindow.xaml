@@ -1,0 +1,16 @@
+﻿<Window x:Class="StudentRosterApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Student Roster" Height="350" Width="400">
+    <Grid>
+        <Label Content="Enter Student Name:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0"/>
+        <TextBox x:Name="StudentNameTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="200" Margin="10,40,0,0"/>
+
+        <Button Content="Add Student" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="10,80,0,0" Click="AddStudentButton_Click"/>
+        <Button Content="Remove Student" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="120,80,0,0" Click="RemoveStudentButton_Click"/>
+        <Button Content="Display Students" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="10,120,0,0" Click="DisplayStudentsButton_Click"/>
+        <Button Content="Clear List" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Margin="120,120,0,0" Click="ClearListButton_Click"/>
+
+        <ListBox x:Name="StudentListBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="360" Height="150" Margin="10,160,0,0"/>
+    </Grid>
+</Window>
