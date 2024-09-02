@@ -1,0 +1,60 @@
+﻿<Window x:Class="RecursiveFactorialApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Factorial Calculator" Height="300" Width="400" Background="#F0F8FF">
+    <Grid>
+        <!-- Main StackPanel to hold all elements -->
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="20">
+
+            <!-- Title Text -->
+            <TextBlock Text="Factorial Calculator" 
+                       FontSize="24" 
+                       FontWeight="Bold" 
+                       Foreground="#4682B4" 
+                       HorizontalAlignment="Center" 
+                       Margin="0,0,0,20"/>
+
+            <!-- Input TextBox with Placeholder -->
+            <Grid>
+                <!-- Placeholder TextBlock -->
+                <TextBlock Text="Enter a number" 
+                           Foreground="Gray" 
+                           VerticalAlignment="Center" 
+                           HorizontalAlignment="Center" 
+                           IsHitTestVisible="False"
+                           Margin="0,0,0,0"
+                           x:Name="PlaceholderTextBlock"
+                           Visibility="Visible"/>
+                <!-- Input TextBox -->
+                <TextBox x:Name="InputTextBox" 
+                         Width="200" 
+                         Height="30" 
+                         FontSize="16" 
+                         Margin="0,0,0,20"
+                         HorizontalContentAlignment="Center" 
+                         VerticalContentAlignment="Center"
+                         TextChanged="InputTextBox_TextChanged"/>
+            </Grid>
+
+            <!-- Calculate Button -->
+            <Button Content="Calculate Factorial" 
+                    Width="200" 
+                    Height="40" 
+                    FontSize="16" 
+                    Background="#4682B4" 
+                    Foreground="White" 
+                    Click="CalculateButton_Click" 
+                    Margin="0,0,0,20"
+                    HorizontalAlignment="Center"/>
+
+            <!-- Result Display TextBlock -->
+            <TextBlock x:Name="ResultTextBlock" 
+                       FontSize="16" 
+                       FontWeight="SemiBold" 
+                       Foreground="#2E8B57"
+                       HorizontalAlignment="Center" 
+                       Margin="0,20,0,0"/>
+
+        </StackPanel>
+    </Grid>
+</Window>
