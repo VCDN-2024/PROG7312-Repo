@@ -1,0 +1,14 @@
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 39-40\DirectedGraph\bin\Debug\net8.0\DirectedGraph.exe
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 39-40\DirectedGraph\bin\Debug\net8.0\DirectedGraph.deps.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 39-40\DirectedGraph\bin\Debug\net8.0\DirectedGraph.runtimeconfig.json
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 39-40\DirectedGraph\bin\Debug\net8.0\DirectedGraph.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 39-40\DirectedGraph\bin\Debug\net8.0\DirectedGraph.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 39-40\DirectedGraph\obj\Debug\net8.0\DirectedGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 39-40\DirectedGraph\obj\Debug\net8.0\DirectedGraph.AssemblyInfoInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 39-40\DirectedGraph\obj\Debug\net8.0\DirectedGraph.AssemblyInfo.cs
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 39-40\DirectedGraph\obj\Debug\net8.0\DirectedGraph.csproj.CoreCompileInputs.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 39-40\DirectedGraph\obj\Debug\net8.0\DirectedGraph.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 39-40\DirectedGraph\obj\Debug\net8.0\refint\DirectedGraph.dll
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 39-40\DirectedGraph\obj\Debug\net8.0\DirectedGraph.pdb
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 39-40\DirectedGraph\obj\Debug\net8.0\DirectedGraph.genruntimeconfig.cache
+C:\Users\dengovender\OneDrive - ADvTECH Ltd\Desktop\VC WORK 2024\SEMESTER 2\Programming 3B-PROG7312\Session 39-40\DirectedGraph\obj\Debug\net8.0\ref\DirectedGraph.dll
